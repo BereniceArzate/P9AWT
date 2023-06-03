@@ -1,0 +1,21 @@
+
+body{
+    padding: 2%;
+    background-color:lavender;
+    border-radius: 5px;
+}
+header{
+    /*border: 2px solid  rgb(143, 143, 255);*/
+    color: black;
+    /*font-family: Alkatra;*/
+    text-align: center;
+    width: 100%;
+}
+
+#contenedor{
+    padding-top: 1%;
+}
+p{
+    text-align: justify;
+}
+
